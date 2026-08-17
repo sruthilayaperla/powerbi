@@ -1,0 +1,21 @@
+Employee_ID,Name,Email,Gender,Age,City,Salary,Joining_Date
+101,Ravi Kumar, ravi.kumar@gmail.com ,M,25,Hyderabad,"50,000",1/15/2026
+102,ravi kumar,ravikumar@gmail.com,Male,25,HYDERABAD,"50,000",15/01/2026
+103,  Priya  Sharma,priya.sharma@gmail,F,twenty eight,Bengaluru,"45,000",2/20/2026
+104,PRIYA SHARMA,priya.sharma@gmail.com,Female,28,Bangalore,"45,000",20-02-2026
+105,Amit Singh,,M,30,Delhi ,"60,000",3/10/2026
+106,Amit  Singh,amit.singh@gmail.com,Male,thirty,New Delhi,"60,000",10/3/2026
+107,Suresh Reddy,suresh.reddy@gmail.com,M,35,Vijayawada,"55,000",4/5/2026
+108,Suresh Reddy,suresh.reddy@gmail.com,M,,Vijayawada,"55,000",5/4/2026
+109,Anjali Rao,anjali.rao@gmail.com ,F,27,Chennai,"52,000",5/18/2026
+110,Anjali Rao,ANJALI.RAO@GMAIL.COM,Female,27 years,Chennai,52K,18/05/2026
+111,Kiran Das,kiran.das@gmail.com,M,29,Mumbai,"48,000",6/22/2026
+112,kiran das ,kiran.das@gmail.com,Male,29,Bombay,"48,000",22-06-2026
+113,Meena Devi,meena.devi@gmail.com,F,31,Visakhapatnam,"70,000",7/1/2026
+114,Meena Devi,meena.devi@gmail.com,Female,31,Vizag,"70,000",1/7/2026
+115,John Paul,john.paul@gmail.com,M,34,Pune,"65,000",7/15/2026
+116,John Paul,john.paul@gmail.com,Male,34,Pune,"65,000",15-07-2026
+117,Lakshmi  Narayan,lakshmi.narayan@gmail.com,F,26,Ongole,"40,000",8/1/2026
+118,Lakshmi Narayan,lakshmi.narayan@gmail.com,Female,twenty six,Ongole ,40K,1/8/2026
+119,Rajesh,rajesh@gmail,M,40,Guntur,"75,000",8/5/2026
+120, Rajesh ,rajesh@gmail.com,Male,40,Guntur,"75,000",5/8/2026
