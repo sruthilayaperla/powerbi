@@ -222,6 +222,3 @@ https://github.com/sruthilayaperla/powerbi/tree/main/casestudies/02-sandwitchsal
 
 Aspiring Data Analyst | Power BI | Python | SQL
 
----
-
-⭐ If you find this project useful, consider giving the repository a star!
