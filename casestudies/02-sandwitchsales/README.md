@@ -206,15 +206,7 @@ It provides practical experience in the complete BI workflow, from importing and
 
 ---
 
-## 📂 Repository
 
-**Power BI Case Studies Repository:**
-https://github.com/sruthilayaperla/powerbi
-
-**Project Folder:**
-https://github.com/sruthilayaperla/powerbi/tree/main/casestudies/02-sandwitchsales
-
----
 
 ## 👩‍💻 Author
 
